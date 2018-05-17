@@ -1,0 +1,10 @@
+bin\Debug\ResourcesTest.exe
+bin\Debug\ResourcesTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ResourcesTest.Properties.Resources.resources
+obj\Debug\ResourcesTest.csproj.GenerateResource.Cache
+obj\Debug\ResourcesTest.exe
+obj\Debug\ResourcesTest.pdb
+obj\Debug\ResourcesTest.Resource1.resources
+obj\Debug\ResourcesTest.Resource2.resources
+obj\Debug\ResourcesTest.MainForm.resources
